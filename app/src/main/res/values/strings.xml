@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">ListActivity</string>
+    <string name="update_name">Update List</string>
+</resources>
